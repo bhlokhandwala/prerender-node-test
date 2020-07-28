@@ -1,0 +1,16 @@
+{
+  "name": "prerender-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^2.0.4",
+    "prerender": "^5.8.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
