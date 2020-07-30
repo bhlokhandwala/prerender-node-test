@@ -9,7 +9,8 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemon": "^2.0.4",
-    "prerender": "^5.8.0"
+    "prerender": "^5.8.0",
+    "prerender-memory-cache": "^1.0.2"
   },
   "author": "",
   "license": "ISC"
