@@ -6,10 +6,10 @@
     "server": "nodemon server.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.4",
-    "prerender": "^5.8.0",
+    "prerender": "^5.20.1",
     "prerender-memory-cache": "^1.0.2"
   },
   "author": "",
